@@ -35,6 +35,9 @@ dependencies:
   loading_animation_widget: ^1.2.0+4
   http: ^0.13.5
   text_to_speech: ^0.2.3
+  video_player: ^2.8.2
+  chewie: ^1.7.4
+
 
 dev_dependencies:
   flutter_test:
